@@ -9,4 +9,5 @@ It was published in Github Pages and can be found [here](https://vgsstudio.githu
 
 # Thanks for the support!
 
-![image](https://user-images.githubusercontent.com/81604963/128949195-dff434bd-731f-4b9d-a938-928ce31d8a3b.png)
+![Video-Vitor-GIF](https://user-images.githubusercontent.com/81604963/129114243-00421052-1e6f-467e-8102-fae2f6c9f411.gif)
+
